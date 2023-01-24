@@ -1,0 +1,4 @@
+ful,lfu
+gob,obg,bog,bgo
+tennis
+football,llootbfa
